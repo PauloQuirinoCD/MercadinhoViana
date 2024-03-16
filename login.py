@@ -54,7 +54,7 @@ conteiner = ft.Container(
             ft.ElevatedButton(
                 text="Novo Usuário",
                 width=280,
-                bgcolor="#5da4ae"
+                bgcolor="#5da4ae",
             ),
             padding=ft.padding.only(20,20)
         ),
