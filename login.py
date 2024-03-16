@@ -46,7 +46,7 @@ conteiner = ft.Container(
             ft.ElevatedButton(
                 text="INICIAR",
                 width=280,
-                bgcolor="#28919e",
+                bgcolor="#8accd2"
             ),
             padding=ft.padding.only(20,20)
         ),
@@ -54,7 +54,7 @@ conteiner = ft.Container(
             ft.ElevatedButton(
                 text="Novo Usuário",
                 width=280,
-                bgcolor="#338d94",
+                bgcolor="#5da4ae"
             ),
             padding=ft.padding.only(20,20)
         ),
@@ -91,8 +91,6 @@ conteiner = ft.Container(
     height=500,
     gradient=ft.LinearGradient([
         '#28919e',
-        '#59a4b0',
-        '#338d94'
     ])
 )
 
